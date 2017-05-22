@@ -8,6 +8,8 @@ public class JetBrainsTest {
         System.out.println("Hello from Jet Brains!");
         SecondClass sc = new SecondClass();
         sc.show();
+        ThirdClass tc = new ThirdClass();
+        tc.display();
     }
 
 }
