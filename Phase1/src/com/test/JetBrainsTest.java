@@ -10,6 +10,8 @@ public class JetBrainsTest {
         sc.show();
         ThirdClass tc = new ThirdClass();
         tc.display();
+        FirstBetaClass fcb = new FirstBetaClass();
+        fcb.betaOne();
     }
 
 }
