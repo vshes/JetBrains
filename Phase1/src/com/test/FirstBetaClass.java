@@ -6,5 +6,6 @@ package com.test;
 public class FirstBetaClass {
     public void betaOne(){
         System.out.println("Beta Branch for Fixes");
+        System.out.println("New Line added");
     }
 }

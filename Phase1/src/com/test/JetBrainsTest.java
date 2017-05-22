@@ -12,6 +12,7 @@ public class JetBrainsTest {
         tc.display();
         FirstBetaClass fcb = new FirstBetaClass();
         fcb.betaOne();
+        System.out.println("Beta is Ready for Release");
     }
 
 }
