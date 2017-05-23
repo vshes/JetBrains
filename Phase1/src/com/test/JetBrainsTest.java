@@ -6,13 +6,6 @@ package com.test;
 public class JetBrainsTest {
     public static void main(String[] args) {
         System.out.println("Hello from Jet Brains!");
-        SecondClass sc = new SecondClass();
-        sc.show();
-        ThirdClass tc = new ThirdClass();
-        tc.display();
-        FirstBetaClass fcb = new FirstBetaClass();
-        fcb.betaOne();
-        System.out.println("Beta is Ready for Release");
+        System.out.println("Create this commit to move master!");
     }
-
 }
