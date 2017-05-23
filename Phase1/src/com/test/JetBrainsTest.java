@@ -7,6 +7,10 @@ public class JetBrainsTest {
     public static void main(String[] args) {
         System.out.println("Hello from Jet Brains!");
         System.out.println("Create this commit to move master!");
+        SecondClass sc = new SecondClass();
+        sc.show();
+        ThirdClass tc = new ThirdClass();
+        tc.display();
         FirstBetaClass fcb = new FirstBetaClass();
         fcb.betaOne();
     }
